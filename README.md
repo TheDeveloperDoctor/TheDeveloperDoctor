@@ -20,20 +20,6 @@
 
 ---
 
-## 💼 Experience
-
-### **Associate AI Engineer — VANAR**
-
-- Built and optimized **multiple production LLM applications**
-- Engineered **real-time Firestore-integrated intelligent chatbots**
-- Enhanced **Multi-Agent Control Protocol (MCP)** enabling secure tool calling
-- Reduced **time-to-first-token by 25%** using **LoRA / QLoRA**
-- Improved **RAG retrieval latency by 40%** using **FAISS**
-- Shipped **2,000+ lines of production-ready Python & FastAPI code**
-- Resolved critical backend, API, and data validation issues in live systems
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
