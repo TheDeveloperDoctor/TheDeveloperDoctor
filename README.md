@@ -68,8 +68,7 @@
 
 <sub>
 Personal account: <b>TheDeveloperDoctor</b> <br>
-Work contributions: <b>haris-ahmed-bim</b>  <br>
-Most GenAI work is developed in private and organization repositories.
+Work contributions: <b>haris-ahmed-bim</b>  
 </sub>
 
 </div>
