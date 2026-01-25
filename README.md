@@ -1,23 +1,85 @@
-## Hi I'm Haris 👋
+<div align="center">
+  
+# Haris Ahmed  
+### GenAI Engineer • Production LLM Systems • RAG • Multi-Agent Architectures
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=850&lines=GenAI+Engineer+building+Production+LLM+Systems;RAG+%7C+Multi-Agent+%7C+Fine-Tuning;Python+%7C+FastAPI+%7C+LangChain+%7C+Vector+DBs" />
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/haris_ahmed_trq?igsh=MTM1OXBiMmtxZXhjaQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/haris-ahmed-785480257/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harisahmed510.00@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TheDeveloperDoctor&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TheDeveloperDoctor&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeveloperDoctor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TheDeveloperDoctor&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🤖 **GenAI Engineer** designing and shipping **production-grade LLM systems used at scale**
+- 🧠 Specialized in **RAG pipelines, AI agents, and multi-agent architectures**
+- ⚙️ Hands-on experience with **LoRA / QLoRA fine-tuning** and inference optimization
+- 📈 Built systems serving **200K+ daily LLM requests**
+- ☁️ Backend-first mindset focused on **scalability, latency, and reliability**
+- 🌍 Open to **FAANG, high-growth startups, and remote GenAI roles**
+
+---
+
+## 💼 Experience
+
+### **Associate AI Engineer — VANAR**
+
+- Built and optimized **multiple production LLM applications**
+- Engineered **real-time Firestore-integrated intelligent chatbots**
+- Enhanced **Multi-Agent Control Protocol (MCP)** enabling secure tool calling
+- Reduced **time-to-first-token by 25%** using **LoRA / QLoRA**
+- Improved **RAG retrieval latency by 40%** using **FAISS**
+- Shipped **2,000+ lines of production-ready Python & FastAPI code**
+- Resolved critical backend, API, and data validation issues in live systems
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### GenAI & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-0B3C49?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0E9F6E?style=for-the-badge)
+
+### 🧠 ML & Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+### Infra & Data
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+### 🌐 Frontend (When Needed)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>
+Personal account: <b>TheDeveloperDoctor</b> <br>
+Work contributions: <b>haris-ahmed-bim</b>  <br>
+Most GenAI work is developed in private and organization repositories.
+</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+> *I don’t build demos — I build systems that survive production.*
+
+⭐️ Focused on scalable, reliable, and measurable GenAI impact.
+
+</div>
