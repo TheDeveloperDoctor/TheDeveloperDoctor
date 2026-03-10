@@ -84,8 +84,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
-![AutoGen](https://img.shields.io/badge/AutoGen-7B2D8B?style=for-the-badge)
 
 ### 🗄️ Vector & Data
 ![Pinecone](https://img.shields.io/badge/Pinecone-0E9F6E?style=for-the-badge)
