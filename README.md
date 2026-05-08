@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris-ahmed-genai/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harisahmed510.00@gmail.com)
-[![Phone](https://img.shields.io/badge/📱_+92_336_440_3111-25D366?style=for-the-badge)](tel:+923364403111)
+[![Portfolio](https://img.shields.io/badge/🌟_OSS_Portfolio-0D1117?style=for-the-badge)](https://github.com/stars/TheDeveloperDoctor/lists/portfolio-projects-100)
 
 </div>
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🏗️ What I've Built
+## 🏗️ Production Work
 
 <table>
 <tr>
@@ -76,6 +76,90 @@
 
 ---
 
+## 🌟 Featured Open Source
+
+<div align="center">
+
+### 📂 [Browse the full curated list — `portfolio-Projects 💯`](https://github.com/stars/TheDeveloperDoctor/lists/portfolio-projects-100)
+
+<sub>8 hand-picked repos. Production patterns, real eval harnesses, real Docker shipping.</sub>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔬 [Mini-RAG](https://github.com/TheDeveloperDoctor/Mini-RAG)
+> *Retrieval comparison lab — not another "look it answers questions" demo*
+
+Four retrievers race head-to-head with **real latency, real recall, real receipts**:
+- 🥇 **Naive cosine** (exact, O(n))
+- 🥈 **FAISS Flat** (SIMD-accelerated)
+- 🥉 **FAISS IVF** (tunable `nlist`/`nprobe`)
+- 🤝 **Hybrid BM25 + dense** (RRF fusion)
+
+Slide corpus 100 → 50k chunks and watch the **crossover point** where naive collapses. Includes `make eval` harness reporting `Recall@5/10`, `MRR`, `p50/p95`.
+
+`Python` · `FastAPI` · `Next.js` · `FAISS` · `bge-small`
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ [SentinelLAN](https://github.com/TheDeveloperDoctor/SentinelLAN)
+> *AI-powered home network security monitor*
+
+Watches your LAN for rogue IoT, MAC spoofing, exposed ports, anomalous behaviour — explains every threat in plain English.
+
+- ARP + mDNS + passive sniffing
+- Stealth Nmap fingerprinting (IoT-safe)
+- Weighted risk scoring → 0-100 score
+- **4 pluggable LLM providers** (OpenAI / Gemini / DeepSeek / OpenRouter)
+- HTMX dashboard + Telegram alerts
+- One-command Docker deploy on Raspberry Pi
+
+`Python` · `Scapy` · `FastAPI` · `Docker` · `SQLite`
+
+</td>
+<td width="33%" valign="top">
+
+### 📨 [CAP — Client Acquisition Tool](https://github.com/TheDeveloperDoctor/CAP)
+> *AI outreach workspace — proposals, cold DMs, follow-ups in &lt;2 min*
+
+Generates outreach with hard-coded quality rules: peer-to-peer tone, real-project proof, forbidden-phrase checks. Persists every output as a re-reachable prospect.
+
+- 4 generation modes with strict per-mode prompts
+- argon2id + JWT auth, rate-limited login
+- Status pipeline (`draft → sent → replied → won`)
+- Overdue follow-up detection
+- DeepSeek + Gemini swappable via env var
+- 26 tests, ≥80% coverage on business logic
+
+`TypeScript` · `Express` · `React` · `Drizzle` · `SQLite`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📚 Other open-source repos in the portfolio list</b></summary>
+
+<br/>
+
+| Repo | Description | Stack |
+|------|-------------|-------|
+| [malware-detector](https://github.com/TheDeveloperDoctor/malware-detector) | ML pipeline for binary malware classification | Jupyter / Python |
+| [Crop_predication_Ai](https://github.com/TheDeveloperDoctor/Crop_predication_Ai) | Crop yield prediction with feature engineering | Jupyter / Python |
+| [Sentimental_Analysis](https://github.com/TheDeveloperDoctor/Sentimental_Analysis) | NLP sentiment classifier with vectorization pipeline | Jupyter / Python |
+| [Face-Recognition-Smart-Door-Lock](https://github.com/TheDeveloperDoctor/Face-Recognition-Smart-Door-Lock-system) | Embedded face recognition for IoT door access | Python / OpenCV |
+| [flutterApp](https://github.com/TheDeveloperDoctor/flutterApp) | Cross-platform Flutter mobile application | Dart / Flutter |
+
+</details>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -84,17 +168,21 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🗄️ Vector & Data
 ![Pinecone](https://img.shields.io/badge/Pinecone-0E9F6E?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### ⚙️ Backend & SaaS
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
@@ -152,6 +240,8 @@
 🔹 Stripe Monetization    ███████████████████░  Advanced
 🔹 Vector Databases       ████████████████████  Expert
 🔹 API Gateway Design     ███████████████████░  Advanced
+🔹 Eval Harnesses         ███████████████████░  Advanced
+🔹 Docker / Containers    ███████████████████░  Advanced
 ```
 
 ---
@@ -167,5 +257,9 @@ Personal: <b><a href="https://github.com/TheDeveloperDoctor">TheDeveloperDoctor<
 <br/><br/>
 
 > *I don't build demos — I build systems that survive production.* ⚡
+
+<br/>
+
+<sub>📌 Explore my <a href="https://github.com/stars/TheDeveloperDoctor/lists/portfolio-projects-100">curated open-source portfolio</a> for deep dives into eval harnesses, retrieval architectures, and shipping patterns.</sub>
 
 </div>
