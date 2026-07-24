@@ -1,15 +1,3 @@
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  SETUP GUIDE                                                          -->
-<!--  1. Create a PUBLIC repo named exactly:  TheDeveloperDoctor           -->
-<!--  2. Add this file to it as README.md                                  -->
-<!--  3. Add snake.yml + update-readme.yml under  .github/workflows/       -->
-<!--  4. Repo Settings → Actions → General → Workflow permissions          -->
-<!--     → select "Read and write permissions" → Save                      -->
-<!--  5. Actions tab → "Generate contribution snake" → Run workflow        -->
-<!--     (until it runs once, the snake at the bottom shows as broken)     -->
-<!--  6. Search for "TODO" and point the project links at your real repos  -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:8b5cf6,100:d946ef&height=210&section=header&text=Haris%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=AI%20Engineer%20%E2%80%A2%20LLMs%20%E2%80%A2%20Agents%20%E2%80%A2%20Full%20Stack&descSize=18&descAlignY=52" width="100%" alt="Header banner" />
@@ -71,15 +59,13 @@ class HarisAhmed:
 <table>
 <tr>
 <td width="50%" valign="top">
-<!-- TODO: replace # with your Weaveflow repo URL -->
-<h3 align="center"><a href="#">🧩 Weaveflow</a></h3>
+<h3 align="center"><a href="https://github.com/TheDeveloperDoctor/weaveflow">🧩 Weaveflow</a></h3>
 <p align="center"><i>Composable AI Agent Framework</i></p>
 <p>Agents snap together like <b>USB devices</b> — regardless of LLM, language, or host. Typed input/output ports, with automatic transforms quietly dropped in when two ports almost match. The core is <b>100% dependency-free</b>: any LangChain, CrewAI, or plain Python agent wraps in a single line via duck-typed bridges.</p>
 <p align="center"><code>Python</code> <code>Pydantic v2</code> <code>asyncio</code> <code>mypy --strict</code></p>
 </td>
 <td width="50%" valign="top">
-<!-- TODO: replace # with your Agent Simulation Society repo URL -->
-<h3 align="center"><a href="#">🧫 Agent Simulation Society</a></h3>
+<h3 align="center"><a href="https://github.com/TheDeveloperDoctor/Agent-Simulation-Society">🧫 Agent Simulation Society</a></h3>
 <p align="center"><i>Multi-Agent Emergent Behavior Platform</i></p>
 <p>A <b>petri dish for LLM societies</b>, built on Weaveflow. Spin up autonomous citizen agents with private goals and memory, drop them into rule-governed games, and watch cooperation, deception, and market efficiency emerge as <b>real numbers, not anecdotes</b>. Fully reproducible from a seed — the offline backend needs zero API keys.</p>
 <p align="center"><code>Multi-agent</code> <code>Game theory</code> <code>Markets</code> <code>Werewolf</code></p>
@@ -87,8 +73,7 @@ class HarisAhmed:
 </tr>
 <tr>
 <td width="50%" valign="top">
-<!-- TODO: replace # with your Adversarial Deep Research repo URL -->
-<h3 align="center"><a href="#">⚖️ Adversarial Deep Research</a></h3>
+<h3 align="center"><a href="https://github.com/TheDeveloperDoctor/Adversarial-Deep-Research">⚖️ Adversarial Deep Research</a></h3>
 <p align="center"><i>Hallucination-Resistant Research Engine</i></p>
 <p>Research that has to <b>earn its conclusions</b>. Web searchers and deep readers fan out, then every fact stands trial before a panel of skeptics — a deliberately mixed jury of <b>Claude, DeepSeek, Gemini & GPT</b> — and a majority vote kills any claim they can't defend. Word-for-word source quotes, SSRF guards, and prompt-injection sanitization built in.</p>
 <p align="center"><code>Agentic RAG</code> <code>Multi-model juries</code> <code>SSRF guard</code></p>
