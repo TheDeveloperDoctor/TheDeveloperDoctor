@@ -49,7 +49,7 @@ class HarisAhmed:
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68979](https://github.com/freeCodeCamp/freeCodeCamp/pull/68979) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+1. ❌ Closed PR [#12585](https://github.com/deepset-ai/haystack/pull/12585) in [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
