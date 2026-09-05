@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:8b5cf6,100:d946ef&height=210&section=header&text=Haris%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=AI%20Engineer%20%E2%80%A2%20LLMs%20%E2%80%A2%20Agents%20%E2%80%A2%20Full%20Stack&descSize=18&descAlignY=52" width="100%" alt="Header banner" />
 
 <a href="https://github.com/TheDeveloperDoctor">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=I+build+LLM+systems+that+survive+production;Composable+agents+%7C+RAG+%7C+Multi-agent+societies;Turning+complex+AI+into+products+people+enjoy;From+the+first+architecture+call+to+the+final+pixel" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=I+build+LLM+systems+that+survive+production;Algebraic+%26+geometric+neural+architectures+in+PyTorch;Composable+agents+%7C+RAG+%7C+Multi-agent+societies;From+the+first+architecture+call+to+the+final+pixel" alt="Typing animation" />
 </a>
 
 <br/><br/>
@@ -27,12 +27,14 @@
 
 ```python
 class HarisAhmed:
-    role     = "Associate AI Engineer @ Vanar"
-    degree   = "BS Computer Science — NUML, Lahore"
-    based_in = "Lahore, Pakistan 🇵🇰"
+    role       = "AI Engineer @ Logocentricity Inc (Remote USA)"
+    previously = "Associate AI Engineer @ Vanar"
+    degree     = "BS Computer Science — NUML, Lahore"
+    based_in   = "Lahore, Pakistan 🇵🇰"
 
     def what_i_do(self):
         return [
+            "Build algebraic & geometric neural architectures in PyTorch",
             "Ship production-grade LLM apps, RAG systems & SaaS platforms",
             "Design composable multi-agent frameworks (typed ports, zero-dep cores)",
             "Make AI outputs earn trust — adversarial verification, real citations",
@@ -40,10 +42,10 @@ class HarisAhmed:
         ]
 
     def ask_me_about(self):
-        return ["RAG", "agent orchestration", "LLM juries", "billing that actually works"]
+        return ["RAG", "agent orchestration", "LLM juries", "geometric deep learning", "billing that actually works"]
 
     def currently(self):
-        return "Watching LLM societies evolve, one tick at a time 🧫"
+        return "Bridging Lean 4 proofs into PyTorch layers, 10 seeds at a time 🔬"
 ```
 
 ## ⚡ Recent Activity
@@ -59,29 +61,37 @@ class HarisAhmed:
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3 align="center">🔬 Algebraic & Geometric Neural Architectures</h3>
+<p align="center"><i>Research @ Logocentricity Inc</i></p>
+<p><b>11 non-standard PyTorch layers</b>, including an octonion fold and Fano incidence message passing, behind one interface with sparse-MLP and random-hypergraph controls so every arm trains and evaluates identically. Bridged a <b>Lean 4 formalization</b> into working code toward a paper, including finding and filling a gap in the proof. A non-learned octonion fold hits <b>100% on 7-bit parity with 2,250 params</b> while a standard MLP stays at chance on 17,730; Fano layers score <b>1.000 across all 10 seeds</b>.</p>
+<p align="center"><code>PyTorch</code> <code>Lean 4</code> <code>Geometric DL</code> <code>Reproducibility</code></p>
+</td>
+<td width="50%" valign="top">
 <h3 align="center"><a href="https://github.com/TheDeveloperDoctor/weaveflow">🧩 Weaveflow</a></h3>
 <p align="center"><i>Composable AI Agent Framework</i></p>
-<p>Agents snap together like <b>USB devices</b> — regardless of LLM, language, or host. Typed input/output ports, with automatic transforms quietly dropped in when two ports almost match. The core is <b>100% dependency-free</b>: any LangChain, CrewAI, or plain Python agent wraps in a single line via duck-typed bridges.</p>
+<p>Agents snap together like <b>USB devices</b> — regardless of LLM, language, or host. Typed input/output ports, with automatic transforms quietly dropped in when two ports almost match. The core is <b>100% dependency-free</b>: any LangChain, CrewAI, or plain Python agent wraps in a single line via duck-typed bridges. Published on PyPI.</p>
 <p align="center"><code>Python</code> <code>Pydantic v2</code> <code>asyncio</code> <code>mypy --strict</code></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3 align="center"><a href="https://github.com/TheDeveloperDoctor/Agent-Simulation-Society">🧫 Agent Simulation Society</a></h3>
 <p align="center"><i>Multi-Agent Emergent Behavior Platform</i></p>
 <p>A <b>petri dish for LLM societies</b>, built on Weaveflow. Spin up autonomous citizen agents with private goals and memory, drop them into rule-governed games, and watch cooperation, deception, and market efficiency emerge as <b>real numbers, not anecdotes</b>. Fully reproducible from a seed — the offline backend needs zero API keys.</p>
 <p align="center"><code>Multi-agent</code> <code>Game theory</code> <code>Markets</code> <code>Werewolf</code></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3 align="center"><a href="https://github.com/TheDeveloperDoctor/Adversarial-Deep-Research">⚖️ Adversarial Deep Research</a></h3>
 <p align="center"><i>Hallucination-Resistant Research Engine</i></p>
 <p>Research that has to <b>earn its conclusions</b>. Web searchers and deep readers fan out, then every fact stands trial before a panel of skeptics — a deliberately mixed jury of <b>Claude, DeepSeek, Gemini & GPT</b> — and a majority vote kills any claim they can't defend. Word-for-word source quotes, SSRF guards, and prompt-injection sanitization built in.</p>
 <p align="center"><code>Agentic RAG</code> <code>Multi-model juries</code> <code>SSRF guard</code></p>
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 <h3 align="center">⚙️ SaaS & Platform Engineering @ Vanar</h3>
 <p align="center"><i>The infrastructure behind the AI</i></p>
-<p>Public API gateway with rate limiting and auto-generated OpenAPI docs · tiered <b>Free / Basic / Pro</b> access engine · <b>Stripe credit billing</b> metering hundreds of users in real time · five scraping engines unified behind one REST API, cutting costs <b>~40%</b> · conversational AI personas replying in <b>under 300ms</b>.</p>
+<p align="center">Public API gateway with rate limiting and auto-generated OpenAPI docs · tiered <b>Free / Basic / Pro</b> access engine · <b>Stripe credit billing</b> metering hundreds of users in real time · five scraping engines unified behind one REST API, cutting costs <b>~40%</b> · conversational AI personas replying in <b>under 300ms</b>.</p>
 <p align="center"><code>FastAPI</code> <code>Stripe</code> <code>Redis</code> <code>PostgreSQL</code> <code>Next.js</code></p>
 </td>
 </tr>
@@ -90,6 +100,15 @@ class HarisAhmed:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🛠️ Tech Arsenal
+
+### 🔬 Research & ML
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Lean_4-0B3D91?style=for-the-badge" alt="Lean 4" />
+  <img src="https://img.shields.io/badge/Geometric_Deep_Learning-7C3AED?style=for-the-badge" alt="Geometric Deep Learning" />
+  <img src="https://img.shields.io/badge/Benchmark_Design-5B21B6?style=for-the-badge" alt="Benchmark Design" />
+</p>
 
 ### 🤖 AI & Agent Engineering
 
@@ -119,7 +138,7 @@ class HarisAhmed:
 ### 💻 Core Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,fastapi,react,nextjs,tailwind&theme=dark" alt="Languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,nodejs,fastapi,react,nextjs,tailwind&theme=dark" alt="Languages and frameworks" />
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis,docker,githubactions,vercel,git&theme=dark" alt="Data and DevOps" />
 </p>
