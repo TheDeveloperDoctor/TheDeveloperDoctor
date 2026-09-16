@@ -19,6 +19,10 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=TheDeveloperDoctor&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20to%20contract%20work-EU%20hours-22c55e?style=for-the-badge" alt="Open to contract work, EU hours" />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
@@ -27,10 +31,11 @@
 
 ```python
 class HarisAhmed:
-    role       = "AI Engineer @ Logocentricity Inc (Remote USA)"
-    previously = "Associate AI Engineer @ Vanar"
+    role       = "AI Engineer @ Logocentricity Inc (Contract, San Antonio TX, Remote)"
+    previously = "Associate AI Engineer @ Vanar (promoted from AI Intern)"
     degree     = "BS Computer Science — NUML, Lahore"
     based_in   = "Lahore, Pakistan 🇵🇰"
+    availability = "Open to additional contract work, EU hours"
 
     def what_i_do(self):
         return [
@@ -63,12 +68,12 @@ class HarisAhmed:
 <td width="50%" valign="top">
 <h3 align="center">🔬 Algebraic & Geometric Neural Architectures</h3>
 <p align="center"><i>Research @ Logocentricity Inc</i></p>
-<p><b>11 non-standard PyTorch layers</b>, including an octonion fold and Fano incidence message passing, behind one interface with sparse-MLP and random-hypergraph controls so every arm trains and evaluates identically. Bridged a <b>Lean 4 formalization</b> into working code toward a paper, including finding and filling a gap in the proof. A non-learned octonion fold hits <b>100% on 7-bit parity with 2,250 params</b> while a standard MLP stays at chance on 17,730; Fano layers score <b>1.000 across all 10 seeds</b>.</p>
+<p><b>11 non-standard PyTorch layers</b>, including an octonion fold and Fano incidence message passing, behind one interface with sparse-MLP and random-hypergraph controls so every arm trains and evaluates identically. Bridged a <b>Lean 4 formalization</b> (Clayworth Algebra, Fano plane geometry) into working code toward a paper, including finding and filling a gap in the proof. A non-learned octonion fold hits <b>100% on 7-bit parity with 2,250 params</b> while a standard MLP stays at chance (0.500) on 17,730; a 13,634-param Fano layer scores a perfect <b>1.000 across all 10 seeds</b> on fano_line — +8.0 points over a random-hypergraph baseline (0.920) and +11 over the MLP family (0.889), at identical architecture and parameter budget.</p>
 <p align="center"><code>PyTorch</code> <code>Lean 4</code> <code>Geometric DL</code> <code>Reproducibility</code></p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center"><a href="https://github.com/TheDeveloperDoctor/weaveflow">🧩 Weaveflow</a></h3>
-<p align="center"><i>Composable AI Agent Framework</i></p>
+<p align="center"><i>Composable AI Agent Framework · built in 1.5 months</i></p>
 <p>Agents snap together like <b>USB devices</b> — regardless of LLM, language, or host. Typed input/output ports, with automatic transforms quietly dropped in when two ports almost match. The core is <b>100% dependency-free</b>: any LangChain, CrewAI, or plain Python agent wraps in a single line via duck-typed bridges. Published on PyPI.</p>
 <p align="center"><code>Python</code> <code>Pydantic v2</code> <code>asyncio</code> <code>mypy --strict</code></p>
 </td>
@@ -76,22 +81,30 @@ class HarisAhmed:
 <tr>
 <td width="50%" valign="top">
 <h3 align="center"><a href="https://github.com/TheDeveloperDoctor/Agent-Simulation-Society">🧫 Agent Simulation Society</a></h3>
-<p align="center"><i>Multi-Agent Emergent Behavior Platform</i></p>
+<p align="center"><i>Multi-Agent Emergent Behavior Platform · built in 4 days</i></p>
 <p>A <b>petri dish for LLM societies</b>, built on Weaveflow. Spin up autonomous citizen agents with private goals and memory, drop them into rule-governed games, and watch cooperation, deception, and market efficiency emerge as <b>real numbers, not anecdotes</b>. Fully reproducible from a seed — the offline backend needs zero API keys.</p>
 <p align="center"><code>Multi-agent</code> <code>Game theory</code> <code>Markets</code> <code>Werewolf</code></p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center"><a href="https://github.com/TheDeveloperDoctor/Adversarial-Deep-Research">⚖️ Adversarial Deep Research</a></h3>
-<p align="center"><i>Hallucination-Resistant Research Engine</i></p>
+<p align="center"><i>Hallucination-Resistant Research Engine · built in 4 days</i></p>
 <p>Research that has to <b>earn its conclusions</b>. Web searchers and deep readers fan out, then every fact stands trial before a panel of skeptics — a deliberately mixed jury of <b>Claude, DeepSeek, Gemini & GPT</b> — and a majority vote kills any claim they can't defend. Word-for-word source quotes, SSRF guards, and prompt-injection sanitization built in.</p>
 <p align="center"><code>Agentic RAG</code> <code>Multi-model juries</code> <code>SSRF guard</code></p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
+<h3 align="center">🥗 Nutrition Platform</h3>
+<p align="center"><i>LLM Product · React & Next.js</i></p>
+<p align="center">A seven-day meal engine people steer in plain language, while it still enforces their allergies and calorie goals — paired with AI personas that push back like a tough interviewer and reply in <b>under 300ms</b>.</p>
+<p align="center"><code>React</code> <code>Next.js (App Router)</code> <code>LLM Personas</code></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 <h3 align="center">⚙️ SaaS & Platform Engineering @ Vanar</h3>
 <p align="center"><i>The infrastructure behind the AI</i></p>
-<p align="center">Public API gateway with rate limiting and auto-generated OpenAPI docs · tiered <b>Free / Basic / Pro</b> access engine · <b>Stripe credit billing</b> metering hundreds of users in real time · five scraping engines unified behind one REST API, cutting costs <b>~40%</b> · conversational AI personas replying in <b>under 300ms</b>.</p>
+<p align="center">Public API gateway with rate limiting and auto-generated OpenAPI docs · tiered <b>Free / Basic / Pro</b> access engine · <b>Stripe credit billing</b> metering usage for hundreds of users and API keys in real time · five scraping engines (Apify, Firecrawl, Crawlee, Playwright, Scrapling) unified behind one REST API with circuit breakers, timeouts, and retries with jitter, cutting costs <b>~40%</b> · a ReAct extraction loop that drops any value it can't trace back to the source · conversational AI personas replying in <b>under 300ms</b>.</p>
 <p align="center"><code>FastAPI</code> <code>Stripe</code> <code>Redis</code> <code>PostgreSQL</code> <code>Next.js</code></p>
 </td>
 </tr>
@@ -117,6 +130,7 @@ class HarisAhmed:
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge" alt="CrewAI" />
   <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge" alt="AutoGen" />
+  <img src="https://img.shields.io/badge/ReAct_Agents-6D28D9?style=for-the-badge" alt="ReAct Agents" />
   <img src="https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge" alt="OpenRouter" />
   <img src="https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=for-the-badge" alt="RAG" />
   <img src="https://img.shields.io/badge/Multi--Agent_(MCP)-4C1D95?style=for-the-badge" alt="Multi-Agent MCP" />
@@ -154,6 +168,7 @@ class HarisAhmed:
   <img src="https://img.shields.io/badge/Firecrawl-FF6A00?style=for-the-badge" alt="Firecrawl" />
   <img src="https://img.shields.io/badge/Apify-00B2A9?style=for-the-badge" alt="Apify" />
   <img src="https://img.shields.io/badge/Crawlee-5A45FF?style=for-the-badge" alt="Crawlee" />
+  <img src="https://img.shields.io/badge/Scrapling-C026D3?style=for-the-badge" alt="Scrapling" />
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
   <img src="https://img.shields.io/badge/mypy_--strict-2A6DB2?style=for-the-badge" alt="mypy strict" />
   <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff" />
